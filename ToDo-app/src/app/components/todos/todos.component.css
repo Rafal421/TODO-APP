@@ -31,7 +31,7 @@
   padding: 10px 15px;
   appearance: none;
   border: none;
-  background-color: #f3f3df;
+  background-color: #eee;
   margin-top: 15px;
   font-size: 20px;
   outline: none;
@@ -40,20 +40,21 @@
 .todo-submit{
   display: block;
   width: 100%;
-  max-width: 200px;
+  max-width: 150px;
   appearance: none;
   border: none;
   outline: none;
+  border-radius: 20PX;
 
-  background-color: #fe4880;
+  background-color: black;
   color: #fff;
-  margin: 15px auto;
+  margin: 10px auto;
 
-  padding: 10px 15px;
+  padding: 10px 10px;
   font-size: 18px;
   font-weight: 700;
 }
 
-.delate{
-  margin: 0 0 0 10px;
-}
+
+
+
